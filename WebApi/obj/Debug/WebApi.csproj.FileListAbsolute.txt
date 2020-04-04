@@ -1,0 +1,411 @@
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ApplicationInsights.config
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\csc.exe
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\vbc.exe
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\WebApi.dll.config
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\WebApi.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\WebApi.pdb
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\EntityFramework.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Data.Edm.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Data.OData.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Data.Services.Client.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Owin.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Spatial.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Http.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Http.Owin.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\WebGrease.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Data.Edm.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Data.OData.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Data.Services.Client.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Spatial.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Http.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Optimization.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\EntityFramework.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Http.Owin.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\de\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\es\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\it\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\de\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\es\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\fr\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\it\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ja\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ko\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\ru\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\zh-Hans\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\zh-Hant\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Cors.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\WebApi\WebApi\bin\ApplicationInsights.config
+D:\WebApi\WebApi\bin\roslyn\csc.exe
+D:\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebApi\WebApi\bin\roslyn\vbc.exe
+D:\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\WebApi\WebApi\bin\WebApi.dll.config
+D:\WebApi\WebApi\bin\WebApi.dll
+D:\WebApi\WebApi\bin\WebApi.pdb
+D:\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\WebApi\WebApi\bin\EntityFramework.dll
+D:\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+D:\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+D:\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebApi\WebApi\bin\Microsoft.Data.Edm.dll
+D:\WebApi\WebApi\bin\Microsoft.Data.OData.dll
+D:\WebApi\WebApi\bin\Microsoft.Data.Services.Client.dll
+D:\WebApi\WebApi\bin\Microsoft.Owin.dll
+D:\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\WebApi\WebApi\bin\Owin.dll
+D:\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\WebApi\WebApi\bin\System.Spatial.dll
+D:\WebApi\WebApi\bin\System.Web.Cors.dll
+D:\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+D:\WebApi\WebApi\bin\System.Web.Http.dll
+D:\WebApi\WebApi\bin\System.Web.Http.Owin.dll
+D:\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\WebApi\WebApi\bin\WebGrease.dll
+D:\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+D:\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebApi\WebApi\bin\Microsoft.Data.Edm.xml
+D:\WebApi\WebApi\bin\Microsoft.Data.OData.xml
+D:\WebApi\WebApi\bin\Microsoft.Data.Services.Client.xml
+D:\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\WebApi\WebApi\bin\System.Spatial.xml
+D:\WebApi\WebApi\bin\System.Web.Http.xml
+D:\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+D:\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\WebApi\WebApi\bin\System.Web.Optimization.xml
+D:\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+D:\WebApi\WebApi\bin\EntityFramework.xml
+D:\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+D:\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WebApi\WebApi\bin\Microsoft.Owin.xml
+D:\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WebApi\WebApi\bin\System.Web.Http.Owin.xml
+D:\WebApi\WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+D:\WebApi\WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+D:\WebApi\WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\WebApi\WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+D:\WebApi\WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\WebApi\WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\WebApi\WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\WebApi\WebApi\bin\de\Microsoft.Data.OData.resources.dll
+D:\WebApi\WebApi\bin\es\Microsoft.Data.OData.resources.dll
+D:\WebApi\WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+D:\WebApi\WebApi\bin\it\Microsoft.Data.OData.resources.dll
+D:\WebApi\WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+D:\WebApi\WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+D:\WebApi\WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+D:\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\WebApi\WebApi\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\WebApi\WebApi\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\WebApi\WebApi\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\WebApi\WebApi\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\WebApi\WebApi\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\WebApi\WebApi\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\WebApi\WebApi\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\WebApi\WebApi\bin\de\System.Spatial.resources.dll
+D:\WebApi\WebApi\bin\es\System.Spatial.resources.dll
+D:\WebApi\WebApi\bin\fr\System.Spatial.resources.dll
+D:\WebApi\WebApi\bin\it\System.Spatial.resources.dll
+D:\WebApi\WebApi\bin\ja\System.Spatial.resources.dll
+D:\WebApi\WebApi\bin\ko\System.Spatial.resources.dll
+D:\WebApi\WebApi\bin\ru\System.Spatial.resources.dll
+D:\WebApi\WebApi\bin\zh-Hans\System.Spatial.resources.dll
+D:\WebApi\WebApi\bin\zh-Hant\System.Spatial.resources.dll
+D:\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ApplicationInsights.config
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\csc.exe
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\vbc.exe
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\WebApi.dll.config
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\WebApi.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\WebApi.pdb
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\EntityFramework.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Data.Edm.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Data.OData.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Data.Services.Client.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Owin.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Spatial.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Cors.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Http.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Http.Owin.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\WebGrease.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Data.Edm.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Data.OData.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Data.Services.Client.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Spatial.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Http.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Newtonsoft.Json.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Optimization.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\EntityFramework.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\System.Web.Http.Owin.xml
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\de\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\es\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\it\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\de\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\es\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\fr\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\it\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ja\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ko\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\ru\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\zh-Hans\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\bin\zh-Hant\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\Dynasoft Business Solutions\Portals\WebApi\WebApi\obj\Debug\WebApi.pdb
